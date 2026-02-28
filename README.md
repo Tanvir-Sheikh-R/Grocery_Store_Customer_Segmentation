@@ -15,7 +15,7 @@ The goal is to identify different types of customers based on spending patterns 
 - Visualize clusters
 - Help businesses optimize marketing strategies
 
--## 🧠 Methodology
+## 🧠 Methodology
 
 The project follows a standard ML pipeline:
 
