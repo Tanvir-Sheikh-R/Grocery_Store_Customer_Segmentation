@@ -106,5 +106,5 @@ jupyter notebook notebooks/Grocery_Store_Customer_Segmentation.ipynb
 
 ## 👤 Author
 
-Tanvir Sheikh  
+MD. Tanvir Sheikh  
 Aspiring Machine Learning Engineer
